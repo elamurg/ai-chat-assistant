@@ -1,0 +1,14 @@
+.env
+.env.*
+!.enc.example
+
+venv
+.venv/
+env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+.idea/
